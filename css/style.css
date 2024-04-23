@@ -1,0 +1,60 @@
+.btn {
+    font-size: 18px !important;
+}
+
+.navbar-brand {
+    margin-left: 2px !important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover,
+.navbar-expand-lg .navbar-nav .nav-link:active {
+    color: rgb(53, 14, 14)
+}
+
+.site-iteam img {
+    width: 70px;
+    min-height: auto;
+}
+
+.register-model {
+    background-color: rgb(125, 113, 113);
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+
+.register-model:hover {
+    background-color: rgb(73, 68, 68);
+
+}
+
+.subscribe {
+    background-image: url("https://cdn.pixabay.com/photo/2017/09/06/16/13/hand-2722108_1280.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-position: center;
+    width: 200vh;
+    height: 150px;
+
+}
+
+.brand-icom img {
+    width: 100px;
+    height: auto;
+}
+
+
+a:active {
+    color: black;
+}
+
+.icon a {
+    color: black;
+}
+
+.icon a:hover {
+    color: rgb(67, 61, 61)
+}
